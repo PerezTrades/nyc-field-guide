@@ -46,5 +46,21 @@
     "lat": 40.7912,
     "lng": -73.969,
     "type": "Sandwich/Deli"
+  },
+  "user_1778099615980_lq8hor": {
+    "name": "12 Matcha",
+    "address": "54 Bond St, New York\",\"formattedAddressLines\":[\"54 Bond St\",\"New York, NY 10012",
+    "neighborhood": "SoHo / NoLita",
+    "category": "Coffee/Cafe",
+    "cuisine": "",
+    "price": "",
+    "rating": null,
+    "highlight": "Great Matcha. Pastry Chef from Noma",
+    "tip": "",
+    "__updatedAt": "2026-05-06T20:35:20.306Z",
+    "borough": "Manhattan",
+    "lat": 40.7259222,
+    "lng": -73.9923787,
+    "type": "Coffee/Cafe"
   }
 }
