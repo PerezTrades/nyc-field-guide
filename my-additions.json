@@ -1,0 +1,31 @@
+[
+  {
+    "id": "user_1778029285578_6bstyv",
+    "name": "White Horse Tavern",
+    "cuisine": "",
+    "category": "Cocktail Bar",
+    "type": "Cocktail Bar",
+    "neighborhood": "West Village / Greenwich",
+    "address": "White Horse Tavern, 567 Hudson Street, Manhattan, New York, New York, 10014, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=White%20Horse%20Tavern%2C%20White%20Horse%20Tavern%2C%20567%20Hudson%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010014%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7356943,
+    "lng": -74.0061832,
+    "original_neighborhood": "West Village / Greenwich",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:01:25.578Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bars & Cocktails"
+    ]
+  }
+]
