@@ -112,5 +112,32 @@
     "addedAt": "2026-05-06T01:37:45.495Z",
     "borough": "Manhattan",
     "buckets": []
+  },
+  {
+    "id": "user_1778031607104_r03aum",
+    "name": "heyjadopottery",
+    "cuisine": "Pottery",
+    "category": "Shopping",
+    "type": "Shopping",
+    "neighborhood": "SoHo / NoLita",
+    "address": "37 Great Jones Street, Manhattan, New York, New York, 10012, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=heyjadopottery%2C%2037%20Great%20Jones%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010012%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7267305,
+    "lng": -73.9930462,
+    "original_neighborhood": "SoHo / NoLita",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:40:07.104Z",
+    "borough": "Manhattan",
+    "buckets": []
   }
 ]
