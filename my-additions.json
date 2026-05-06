@@ -139,5 +139,32 @@
     "addedAt": "2026-05-06T01:40:07.104Z",
     "borough": "Manhattan",
     "buckets": []
+  },
+  {
+    "id": "user_1778031680806_lgtb7w",
+    "name": "Claireware Pottery",
+    "cuisine": "Pottery",
+    "category": "Shopping",
+    "type": "Shopping",
+    "neighborhood": "Brooklyn",
+    "address": "543 Union Street, Brooklyn, New York, New York, 11215, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Claireware%20Pottery%2C%20543%20Union%20Street%2C%20Brooklyn%2C%20New%20York%2C%20New%20York%2C%2011215%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.6792907,
+    "lng": -73.9874959,
+    "original_neighborhood": "Brooklyn",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:41:20.806Z",
+    "borough": "Brooklyn",
+    "buckets": []
   }
 ]
