@@ -116,7 +116,7 @@
   {
     "id": "user_1778031607104_r03aum",
     "name": "heyjadopottery",
-    "cuisine": "Pottery",
+    "cuisine": "Art / Pottery",
     "category": "Shopping",
     "type": "Shopping",
     "neighborhood": "SoHo / NoLita",
@@ -138,7 +138,8 @@
     "addedByMe": true,
     "addedAt": "2026-05-06T01:40:07.104Z",
     "borough": "Manhattan",
-    "buckets": []
+    "buckets": [],
+    "__updatedAt": "2026-05-06T01:43:23.415Z"
   },
   {
     "id": "user_1778031680806_lgtb7w",
