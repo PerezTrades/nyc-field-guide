@@ -277,12 +277,13 @@
     "lat": 40.7259222,
     "lng": -73.9923787,
     "original_neighborhood": "SoHo / NoLita",
-    "highlight": "",
+    "highlight": "Great matcha. Pastry chef from Noma",
     "addedByMe": true,
     "addedAt": "2026-05-06T20:33:35.980Z",
     "borough": "Manhattan",
     "buckets": [
       "Coffee & Cafe"
-    ]
+    ],
+    "__updatedAt": "2026-05-06T20:36:02.297Z"
   }
 ]
