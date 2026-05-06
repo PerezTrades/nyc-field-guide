@@ -168,5 +168,34 @@
     "borough": "Brooklyn",
     "buckets": [],
     "__updatedAt": "2026-05-06T01:42:52.871Z"
+  },
+  {
+    "id": "user_1778031965805_la4kzi",
+    "name": "Mary O’s Irish Soda Bread Shop",
+    "cuisine": "",
+    "category": "Bakery",
+    "type": "Bakery",
+    "neighborhood": "East Village",
+    "address": "Mary O’s Irish Soda Bread Shop, 93 1/2 East 7th Street, Manhattan, New York, New York, 10009, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mary%20O%E2%80%99s%20Irish%20Soda%20Bread%20Shop%2C%20Mary%20O%E2%80%99s%20Irish%20Soda%20Bread%20Shop%2C%2093%201%2F2%20East%207th%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010009%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7268816,
+    "lng": -73.9852583,
+    "original_neighborhood": "East Village",
+    "highlight": "Irish Soda Bread Scones are legendary",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:46:05.805Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bakery & Sweets"
+    ]
   }
 ]
