@@ -27,5 +27,34 @@
     "buckets": [
       "Bars & Cocktails"
     ]
+  },
+  {
+    "id": "user_1778029579805_fwf1zs",
+    "name": "Sama 'Za, 370 W 51st St, New York, NY 10019",
+    "cuisine": "Italian",
+    "category": "Restaurant, Pizza",
+    "type": "Restaurant",
+    "neighborhood": "Midtown",
+    "address": "Bricola, 370 West 51st Street, Manhattan, New York, New York, 10019, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sama%20'Za%2C%20370%20W%2051st%20St%2C%20New%20York%2C%20NY%2010019%2C%20Bricola%2C%20370%20West%2051st%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010019%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7638785,
+    "lng": -73.98821,
+    "original_neighborhood": "Midtown",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:06:19.805Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Casual"
+    ]
   }
 ]
