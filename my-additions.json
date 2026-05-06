@@ -85,5 +85,32 @@
     "buckets": [
       "Casual"
     ]
+  },
+  {
+    "id": "user_1778031465495_gnh819",
+    "name": "Le Fanion",
+    "cuisine": "Pottery",
+    "category": "Shopping",
+    "type": "Shopping",
+    "neighborhood": "West Village / Greenwich",
+    "address": "50 Bank Street, Manhattan, New York, New York, 10014, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fanion%2C%2050%20Bank%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010014%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7367952,
+    "lng": -74.0035583,
+    "original_neighborhood": "West Village / Greenwich",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T01:37:45.495Z",
+    "borough": "Manhattan",
+    "buckets": []
   }
 ]
