@@ -1,0 +1,34 @@
+{
+  "user_1778031607104_r03aum": {
+    "name": "heyjadopottery",
+    "address": "37 Great Jones Street, Manhattan, New York, New York, 10012, United States",
+    "neighborhood": "SoHo / NoLita",
+    "category": "Shopping",
+    "cuisine": "Art / Pottery",
+    "price": "",
+    "rating": null,
+    "highlight": "",
+    "tip": "",
+    "__updatedAt": "2026-05-06T01:43:23.415Z",
+    "borough": "Manhattan",
+    "lat": 40.7267305,
+    "lng": -73.9930462,
+    "type": "Shopping"
+  },
+  "user_1778031465495_gnh819": {
+    "name": "Le Fanion",
+    "address": "50 Bank Street, Manhattan, New York, New York, 10014, United States",
+    "neighborhood": "West Village / Greenwich",
+    "category": "Shopping",
+    "cuisine": "Art / Pottery",
+    "price": "",
+    "rating": null,
+    "highlight": "",
+    "tip": "",
+    "__updatedAt": "2026-05-06T01:43:34.330Z",
+    "borough": "Manhattan",
+    "lat": 40.7367952,
+    "lng": -74.0035583,
+    "type": "Shopping"
+  }
+}
