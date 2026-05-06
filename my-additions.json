@@ -226,5 +226,34 @@
     "buckets": [
       "Bars & Cocktails"
     ]
+  },
+  {
+    "id": "user_1778077290700_klg4lr",
+    "name": "L’Appartement 4F",
+    "cuisine": "French",
+    "category": "Bakery",
+    "type": "Bakery",
+    "neighborhood": "West Village / Greenwich",
+    "address": "L’Appartement 4F, 119 West 10th Street, Manhattan, New York, New York, 10014, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=L%E2%80%99Appartement%204F%2C%20L%E2%80%99Appartement%204F%2C%20119%20West%2010th%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010014%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7348368,
+    "lng": -73.9995459,
+    "original_neighborhood": "West Village / Greenwich",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T14:21:30.700Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bakery & Sweets"
+    ]
   }
 ]
