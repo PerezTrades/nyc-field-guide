@@ -197,5 +197,34 @@
     "buckets": [
       "Bakery & Sweets"
     ]
+  },
+  {
+    "id": "user_1778038534449_jjnbbr",
+    "name": "Le Dive",
+    "cuisine": "French",
+    "category": "Cocktail Bar",
+    "type": "Cocktail Bar",
+    "neighborhood": "Chinatown / LES",
+    "address": "Le Dive, 37 Canal Street, Manhattan, New York, New York, 10002, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Dive%2C%20Le%20Dive%2C%2037%20Canal%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010002%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.71476,
+    "lng": -73.9909434,
+    "original_neighborhood": "Chinatown / LES",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T03:35:34.449Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bars & Cocktails"
+    ]
   }
 ]
