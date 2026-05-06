@@ -30,5 +30,21 @@
     "lat": 40.7367952,
     "lng": -74.0035583,
     "type": "Shopping"
+  },
+  "orig_1r9csdv": {
+    "name": "Jacob's Pickles",
+    "address": "680 Columbus Ave, New York, NY 10025, USA",
+    "neighborhood": "Upper West Side",
+    "category": "Sandwich/Deli, American",
+    "cuisine": "American",
+    "price": "$$",
+    "rating": 4.5,
+    "highlight": "UWS American comfort food behemoth — the chicken-Caesar wrap and biscuits keep the brunch line moving.",
+    "tip": "I’m looking for the best Chicken Caesar Wrap… and I may have just found it @jacobspickles  . . . . . #chickencaesar #caesarsalad #eatingshow #foodreview #tastetest",
+    "__updatedAt": "2026-05-06T14:23:06.674Z",
+    "borough": "Manhattan",
+    "lat": 40.7912,
+    "lng": -73.969,
+    "type": "Sandwich/Deli"
   }
 }
