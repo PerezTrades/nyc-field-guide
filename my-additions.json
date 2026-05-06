@@ -255,5 +255,34 @@
     "buckets": [
       "Bakery & Sweets"
     ]
+  },
+  {
+    "id": "user_1778099615980_lq8hor",
+    "name": "12 Matcha",
+    "cuisine": "",
+    "category": "Coffee/Cafe",
+    "type": "Coffee/Cafe",
+    "neighborhood": "SoHo / NoLita",
+    "address": "54 Bond St, New York\",\"formattedAddressLines\":[\"54 Bond St\",\"New York, NY 10012",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12%20Matcha%2C%2054%20Bond%20St%2C%20New%20York%22%2C%22formattedAddressLines%22%3A%5B%2254%20Bond%20St%22%2C%22New%20York%2C%20NY%2010012",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7259222,
+    "lng": -73.9923787,
+    "original_neighborhood": "SoHo / NoLita",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-06T20:33:35.980Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Coffee & Cafe"
+    ]
   }
 ]
