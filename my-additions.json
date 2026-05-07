@@ -282,5 +282,34 @@
     "addedAt": "2026-05-06T21:50:15.545Z",
     "borough": "Manhattan",
     "buckets": []
+  },
+  {
+    "id": "user_1778161550983_slsnmz",
+    "name": "The Commerce Inn",
+    "cuisine": "American",
+    "category": "Breakfast, Brunch",
+    "type": "Breakfast",
+    "neighborhood": "West Village / Greenwich",
+    "address": "50 Commerce St, New York\",\"formattedAddressLines\":[\"50 Commerce St\",\"New York, NY 10014",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Commerce%20Inn%2C%2050%20Commerce%20St%2C%20New%20York%22%2C%22formattedAddressLines%22%3A%5B%2250%20Commerce%20St%22%2C%22New%20York%2C%20NY%2010014",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.731477,
+    "lng": -74.0056977,
+    "original_neighborhood": "West Village / Greenwich",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-07T13:45:50.983Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Breakfast & Brunch"
+    ]
   }
 ]
