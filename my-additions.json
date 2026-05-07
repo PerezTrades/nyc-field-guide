@@ -311,5 +311,34 @@
     "buckets": [
       "Breakfast & Brunch"
     ]
+  },
+  {
+    "id": "user_1778168654171_s21hgj",
+    "name": "Sauced",
+    "cuisine": "",
+    "category": "Wine Bar",
+    "type": "Wine Bar",
+    "neighborhood": "Williamsburg / Greenpoint",
+    "address": "331 Bedford Ave, Brooklyn\",\"formattedAddressLines\":[\"331 Bedford Ave\",\"Brooklyn, NY 11211",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sauced%2C%20331%20Bedford%20Ave%2C%20Brooklyn%22%2C%22formattedAddressLines%22%3A%5B%22331%20Bedford%20Ave%22%2C%22Brooklyn%2C%20NY%2011211",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7126451,
+    "lng": -73.9623269,
+    "original_neighborhood": "Williamsburg / Greenpoint",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-07T15:44:14.171Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bars & Cocktails"
+    ]
   }
 ]
