@@ -397,5 +397,34 @@
       "Restaurants",
       "Breakfast & Brunch"
     ]
+  },
+  {
+    "id": "user_1778256774338_835wid",
+    "name": "Sauced",
+    "cuisine": "",
+    "category": "Wine Bar",
+    "type": "Wine Bar",
+    "neighborhood": "East Village",
+    "address": "Sauced, 47 2nd Avenue, Manhattan, New York, New York, 10003, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sauced%2C%20Sauced%2C%2047%202nd%20Avenue%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010003%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7254489,
+    "lng": -73.9902639,
+    "original_neighborhood": "East Village",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-08T16:12:54.338Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bars & Cocktails"
+    ]
   }
 ]
