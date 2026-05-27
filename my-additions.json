@@ -426,5 +426,32 @@
     "buckets": [
       "Bars & Cocktails"
     ]
+  },
+  {
+    "id": "user_1779892929188_h50xfi",
+    "name": "Patisserie Claude",
+    "cuisine": "",
+    "category": "",
+    "type": "Other",
+    "neighborhood": "West Village / Greenwich",
+    "address": "Patisserie Claude, 187 West 4th Street, Manhattan, New York, New York, 10014, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Patisserie%20Claude%2C%20Patisserie%20Claude%2C%20187%20West%204th%20Street%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010014%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.7326391,
+    "lng": -74.0017782,
+    "original_neighborhood": "West Village / Greenwich",
+    "highlight": "Chocolate Cake/ Pastries",
+    "addedByMe": true,
+    "addedAt": "2026-05-27T14:42:09.188Z",
+    "borough": "Manhattan",
+    "buckets": []
   }
 ]
