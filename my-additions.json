@@ -453,5 +453,34 @@
     "addedAt": "2026-05-27T14:42:09.188Z",
     "borough": "Manhattan",
     "buckets": []
+  },
+  {
+    "id": "user_1779973997145_uix239",
+    "name": "Butterfield Market",
+    "cuisine": "",
+    "category": "Bakery",
+    "type": "Bakery",
+    "neighborhood": "Manhattan",
+    "address": "Butterfield Market, 1114 Lexington Avenue, Manhattan, New York, New York, 10035, United States",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Butterfield%20Market%2C%20Butterfield%20Market%2C%201114%20Lexington%20Avenue%2C%20Manhattan%2C%20New%20York%2C%20New%20York%2C%2010035%2C%20United%20States",
+    "reel_count": 0,
+    "reel_urls": [],
+    "creators": [],
+    "tip": "",
+    "warning": "",
+    "confidence": "High",
+    "lat": 40.774123,
+    "lng": -73.959736,
+    "original_neighborhood": "Manhattan",
+    "highlight": "",
+    "addedByMe": true,
+    "addedAt": "2026-05-28T13:13:17.145Z",
+    "borough": "Manhattan",
+    "buckets": [
+      "Bakery & Sweets"
+    ]
   }
 ]
